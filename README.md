@@ -1,5 +1,5 @@
 # CSI-Code
-CSI: A hybrid deep model for fake news detection [Link] (https://dl.acm.org/citation.cfm?id=3132877)
+CSI: A hybrid deep model for fake news detection [Link](https://dl.acm.org/citation.cfm?id=3132877)
 
 ## Requirements
 - Python 2.7.x
